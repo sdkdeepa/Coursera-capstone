@@ -1,3 +1,4 @@
 # https://sdkdeepa.github.io/index.html
 Web Designer for everyone coursera project!
-for CSS homework go to https://sdkdeepa.github.io
+
+CSS homework1- Please go to sdkdeepa.github.io/blob/master/assignment-1/css/hw1.css
