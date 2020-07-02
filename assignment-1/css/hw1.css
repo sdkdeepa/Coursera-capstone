@@ -1,5 +1,5 @@
 header{
-  background:#A2A19E;
+  background:#A6A7A7 ;
 }
 
 h1 {
@@ -7,21 +7,20 @@ h1 {
   color: white;
   text-transform: uppercase;
 }
-
-a {
-    color:#050200 ;
-    background:#BEBDBB ;
-}
-
-img {
-  display: none;
+h2 {
+  color: #062B96;
+  text-transform:uppercase;
 }
 
 section {
   background: #646566;
 }
 
-h2 {
-  color: #062B96;
-  text-transform:uppercase;
+a {
+    color:#050200 ;
+    background:#BEBDBB; 
+}
+
+img {
+  display: none;
 }
