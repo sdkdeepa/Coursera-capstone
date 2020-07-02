@@ -3,4 +3,4 @@
 Web Designer for everyone coursera project!
 
 CSS homework1- Please go to 
-# https://sdkdeepa.github.io/blob/master/assignment-1/index.html
+https://sdkdeepa.github.io/blob/master/assignment-1/index.html
