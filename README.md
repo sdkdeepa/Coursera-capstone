@@ -40,3 +40,4 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 
 ** This is a design for Mobile screen
+![Desktop-design] https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Mobileview.png
