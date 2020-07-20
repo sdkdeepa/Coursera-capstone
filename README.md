@@ -24,7 +24,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ---
 
-### Build With: 
+### Project Build With: 
 * HTML5
 * CSS3
 * JavaScript
@@ -32,12 +32,14 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ---
 
-### Freehand design sketches for the Portoflio
-
+###  Wireframing of the portfolio project
 ** This is a design for Desktop screen
 
-![Desktop-design] (https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Webview.png)
+![Desktop-design](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Webview.png)
 
 
 ** This is a design for Mobile screen
-![Mobile-view] (https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Mobileview.png)
+
+
+![Mobile-view](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Mobileview.png)
+
