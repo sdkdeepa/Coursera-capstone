@@ -36,8 +36,8 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ** This is a design for Desktop screen
 
-![Desktop-design]
+![Desktop-design] (https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Webview.png)
 
 
 ** This is a design for Mobile screen
-![Desktop-design] (https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Mobileview.png)
+![Mobile-view] (https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Mobileview.png)
