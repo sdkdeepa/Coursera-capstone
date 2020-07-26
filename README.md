@@ -43,3 +43,4 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ![Mobile-view](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Designs/Mobileview.png)
 
+![Desktop-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Capstone/capstone-screenrecording-final.gif)
