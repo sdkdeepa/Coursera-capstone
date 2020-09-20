@@ -1,4 +1,6 @@
-# Coursera-Web-Design-for-Everybody-Capstone-Project https://sdkdeepa.github.io/BT-themed/
+# Coursera-Web-Design-for-Everybody-Capstone-Project 
+
+## Project Details
 This is a repository for the Portfolio Project (designed from scratch) of [Web Design For Everybody Specialization on Coursera (University of Michigan)](https://www.coursera.org/specializations/web-design).
 
 ## About this Specialization
@@ -30,6 +32,8 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 * JavaScript
 * jQuery
 
+### Capstone final project
+* https://sdkdeepa.github.io/BT-themed/
 ---
 
 ###  Wireframing of the portfolio project
