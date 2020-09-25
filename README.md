@@ -16,11 +16,11 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 ---
 
 ### Web Design for Everybody Capstone Project 
-* developed a professional-quality web portfolio.
+* Developed a professional-quality web portfolio.
 * Desgined the website from scratch.
 * Built HTML structure.
 * Added CSS style.
-* Added Responsive for screens less than 500px;
+* Added Responsive for screens less than 500px; 
 * Added JavaScript Interactivity.
 * Valdited On w3 Validator.
 
@@ -31,6 +31,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 * CSS3
 * JavaScript
 * jQuery
+* Bootstrap4
 
 ### Capstone final project
 * https://sdkdeepa.github.io/BT-themed/
