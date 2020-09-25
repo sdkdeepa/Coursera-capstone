@@ -1,4 +1,4 @@
-# Coursera: Web-Design for Everybody Specialization  
+# Web-Design for Everybody Specialization  
 
 ## Project Details
 This is a repository for the Portfolio Project (designed from scratch) of [Web Design For Everybody Specialization on Coursera (University of Michigan)](https://www.coursera.org/specializations/web-design).
