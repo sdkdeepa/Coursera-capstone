@@ -34,7 +34,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 * Bootstrap4
 
 ### Capstone final project
-* https://sdkdeepa.github.io/BT-themed/
+* https://sdkdeepa.github.io/Bootstrap-themed/
 ---
 
 ###  Wireframing of the portfolio project
