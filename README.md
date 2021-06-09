@@ -3,6 +3,30 @@
 ## Project Details
 This is a repository for the Portfolio Project (designed from scratch) of [Web Design For Everybody Specialization on Coursera (University of Michigan)](https://www.coursera.org/specializations/web-design).
 
+---
+
+### Web Design for Everybody Capstone Project 
+* Developed a professional-quality web portfolio.
+* Desgined the website from scratch.
+* Built HTML structure.
+* Added CSS style.
+* Added Responsive for screens less than 500px; 
+* Added JavaScript Interactivity.
+* Valdited On w3 Validator.
+
+---
+
+### Project developed using  
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Bootstrap4
+
+### Capstone final project
+* https://deepa-fullstack-profile.netlify.app/
+---
+
 ## About this Specialization
 This Specialization covers how to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript.
 
@@ -18,29 +42,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 [see certificate](https://www.coursera.org/account/accomplishments/specialization/RCQNTWHKS3V7)
 ![alt text](https://github.com/sdkdeepa/Coursera-capstone/blob/master/Coursera-certificate.png)
----
 
-### Web Design for Everybody Capstone Project 
-* Developed a professional-quality web portfolio.
-* Desgined the website from scratch.
-* Built HTML structure.
-* Added CSS style.
-* Added Responsive for screens less than 500px; 
-* Added JavaScript Interactivity.
-* Valdited On w3 Validator.
-
----
-
-### Project Build With: 
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
-* Bootstrap4
-
-### Capstone final project
-* https://deepa-fullstack-profile.netlify.app/
----
 
 ###  Wireframing of the portfolio project
 ** This is a design for Desktop screen
